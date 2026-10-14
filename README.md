@@ -1,11 +1,6 @@
 ![Spread Anarchy](docs/anarquia-paz-justica-anarchy-peace-justice.gif)
-
-
-
-<img src="docs/cobrinha.svg" width="100%"/>
-
+  
 ## Contacts
-
 * https://vd171.ru
 * https://vd.priv8.ru
 * **Telegram:** @VD_Priv8 https://t.me/VD_Priv8
